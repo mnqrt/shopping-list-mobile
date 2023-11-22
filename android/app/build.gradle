@@ -65,8 +65,9 @@ android {
         }
     }
 
-flutter {
-    source '../..'
-}
+    flutter {
+        source '../..'
+    }
 
-dependencies {}
+    dependencies {}
+}
